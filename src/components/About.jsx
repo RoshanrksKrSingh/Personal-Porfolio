@@ -18,7 +18,7 @@ const About = () => {
       sx={{
         py: { xs: 8, md: 12 },
         background: isDark
-          ? "#000000" // ✅ dark mode section stays black
+          ? "#000000" //  dark mode section stays black
           : "linear-gradient(90deg, #3ae8cb 0%, #efd9d9 100%)", // light mode gradient (unchanged)
         color: isDark ? "#fff" : "#0e0e0e",
         textAlign: "center",
@@ -63,7 +63,7 @@ const About = () => {
             p: { xs: 3, sm: 5 },
             borderRadius: 4,
             backgroundColor: isDark
-              ? "#ffffff" // ✅ card pure white in dark mode
+              ? "#ffffff" // card pure white in dark mode
               : "rgba(255, 255, 255, 0.6)", // semi-transparent in light mode
             color: "#0e0e0e", // text always dark inside card
             backdropFilter: "blur(12px)",

@@ -184,7 +184,7 @@ const Hero = () => {
           data-aos="fade-up"
           data-aos-delay="400"
         >
-          I Am Freelancer.
+          {/* I Am Freelancer. */}
         </Typography>
 
         {/* Contact Info with Icons */}

@@ -14,11 +14,18 @@ import WorkspacePremiumIcon from "@mui/icons-material/WorkspacePremium";
 const experiences = [
   {
     company: "SN Softwares Solution",
-    role: "MERN Developer",
+    role: "Jr. Front-end Developer",
     period: "May 2025 – Present",
     description:
-      "Working on full-stack web applications using MongoDB, Express.js, React, and Node.js. Building scalable APIs, dashboards, and modern UI features.",
+      "Working on front-end web developer using  React,Tailwind CSS and MUI CSS. Building responsive user-friendely modern UI features.",
   },
+  // {
+  //   company: "SN Softwares Solution",
+  //   role: "MERN Developer",
+  //   period: "May 2025 – Present",
+  //   description:
+  //     "Working on full-stack web applications using MongoDB, Express.js, React, and Node.js. Building scalable APIs, dashboards, and modern UI features.",
+  // },
   // {
   //   company: "Enser Communication Ltd.",
   //   role: "IT Support Technician & Desktop Support Technician",
